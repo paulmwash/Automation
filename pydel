@@ -11,6 +11,7 @@ for file in files:
    f1.write("Hello everybody here\n")
   
   with open(file) as f1:
+   cont=f1.read()
    print(cont)
 
 print(os.getcwd())
