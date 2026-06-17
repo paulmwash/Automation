@@ -1,2 +1,4 @@
 # Automation
-This repo introduces automation using python,bash
+This repo is about automation using python,bash
+# Updates
+More updates soon
