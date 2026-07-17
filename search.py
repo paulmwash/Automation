@@ -1,3 +1,6 @@
+#This script you can run on you command line followed by what you ant to search 
+#./search.py <search-query>
+
 #!/usr/bin/env python3
 
 import sys,webbrowser,pyperclip
